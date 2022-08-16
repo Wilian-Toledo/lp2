@@ -6,7 +6,7 @@ include 'component/PostHorizontal.php';
 $title = 'Dia dos Pais';
 $content = 'O Dia dos Pais bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla';
 $post1 = new PostHorizontal($title, $content);
-$post1->setImage(46); 
+$post1->setImage(38); 
 include 'views/posts.php';
 
 include 'views/rodape.php';

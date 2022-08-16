@@ -52,7 +52,7 @@ class PostHorizontal {
      private function imageColumn(){
         $html = '<div class="col-lg-4 mb-4">            
         <div class="view overlay z-depth-1">
-          <img src="https://mdbootstrap.com/img/Photos/Others/img (38).jpg" class="img-fluid" alt="First sample image">
+          <img src="https://mdbootstrap.com/img/Photos/Others/img (35).jpg" class="img-fluid" alt="First sample image">
           <a>
             <div class="mask rgba-white-slight"></div>
           </a>
